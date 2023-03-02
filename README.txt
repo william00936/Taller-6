@@ -1,5 +1,4 @@
-## Famous speeches by technology advocates and contributors
+## Famosos discursos en tecnología
 
-This repository is a compilation of some of my favorite speeches and quotes from renowned technology advocates and contributors.
+Este repositorio es una recopilación de discursos y citas de reconocidos defensores de la tecnología y contribuyentes, incluyendo [Grace Hopper] (https://en.wikipedia.org/wiki/Grace_Hopper), [Edsger Djikstra] (https://en.wikipedia.org /wiki/Edsger_W._Dijkstra), y [Alan Turing] (https://en.wikipedia.org/wiki/Alan_Turing).
 
-They are contained in the examples.md file.

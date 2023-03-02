@@ -1,34 +1,33 @@
-## Grace Hopper
+### Grace Hopper - Nanoseconds
 
->  They started talking about circuits that acted in nanoseconds, billionths of a second. Oh, I didn't know what a billion was, I don't think most of those men downtown know what a billion is either, and, ah, if you don't know what a billion is, how on earth do you know what a billionth is?
-> >
-> > I fussed and fumed. Finally one morning, in total desperation, I called over to the engineering building, and said "please cut off a nanosecond and send it over to me", and I brought you some today.
-> >
-> > Now what I wanted when I asked for a nanosecond was, I wanted a piece of wire which would represent the maximum distance that electricity could travel in a billionth of a second.
-> >
-> > Of course, it wouldn't really be through wire. It'd be out in space, velocity of light, so if you start with the velocity of light and use your friendly computer, you'll discover that a nanosecond is 11.8 inches long. The maximum limiting distance that electricity can travel in a billionth of a second.
-> >
-> > Finally, again in about a week I called back and said "I need something to compare this to. Could I please have a microsecond?"
-> >
-> > I've only got one microsecond, so I can't give you each one. Here's a microsecond. Nine hundred and eighty-four feet. I sometimes think we ought to hang one over every programmer's desk, or around their neck, so they know what they're throwing away when they throw away microseconds.
-> >
-> > Now I hope you all get your nanoseconds. They're absolutely marvelous for explaining to wives and husbands and children, and admirals, and generals, people like that. An admiral wanted to know why it took so damn long to send a message via satellite, and I had to point out that between here and the satellite were a very large number of nanoseconds.
-> >
-> > You see, you can explain these things, it's really very helpful, so be sure to get your nanoseconds.
+>> Empezaron a hablar de circuitos que actuaban en nanosegundos, billonésimas de segundo. Oh, yo no sabía lo que era un billón, no creo que la mayoría de esos hombres en el centro saben lo que es un billón, y, ah, si no sabes lo que es un billón, ¿cómo sabes ¿Qué es una mil millonésima?
+>>
+>> Me preocupé y herví. Finalmente, una mañana, en total desesperación, llamé al edificio de ingeniería y le dije: "Por favor, corta un nanosegundo y envíalo a mí", y hoy te traje algunos.
+>>
+>> Ahora lo que quería cuando pedí un nanosegundo era, yo quería un trozo de alambre que representaría la distancia máxima que la electricidad podría viajar en una billonésima de segundo.
+>>
+>> Por supuesto, no sería realmente a través de alambre. Estaría en el espacio, la velocidad de la luz, así que si empiezas con la velocidad de la luz y usas tu computadora amigable, descubrirás que un nanosegundo tiene 11,8 pulgadas de largo. La distancia límite máxima que la electricidad puede recorrer en una milmillonésima de segundo.
+>>
+Por último, otra vez en una semana que llamé de nuevo y dijo: "Necesito algo para comparar esto. ¿Podría por favor tener un microsegundo?"
+>>
+>> Sólo tengo un microsegundo, así que no puedo darte cada uno. Aquí hay un microsegundo. Novecientos ochenta y cuatro pies. A veces pienso que debemos colgar uno sobre el escritorio de cada programador, o alrededor de su cuello, así que saben lo que están tirando lejos cuando tiran microsegundos ausentes.
+>>
+>> Ahora espero que todos obtengan sus nanosegundos. Son absolutamente maravillosos para explicar a las esposas y los maridos y los niños, y los almirantes, y los generales, la gente tienen gusto de eso. Un almirante quería saber por qué tardaba tanto tiempo en enviar un mensaje vía satélite, y tenía que señalar que entre aquí y el satélite había un gran número de nanosegundos.
+>>
+> Usted ve, usted puede explicar estas cosas, es realmente muy provechoso, así que sea seguro conseguir sus nanoseconds.
 
-> > We must include in any language with which we hope to describe complex data-processing situations the capability for describing data. We must also include a mechanism for determining the priorities to be applied to the data. These priorities are not fixed and are indicated in many cases by the data.
-> > Thus we must have a language and a structure that will take care of the data descriptions and priorities, as well as the operations we wish to perform. If we think seriously about these problems, we find that we cannot work with procedures alone, since they are sequential. We need to define the problem instead of the procedures.
+### Edsger Dijkstra - El programador humilde
 
-> > It's easier to ask forgiveness than it is to get permission.
+>> Como resultado de una larga secuencia de coincidencias entré oficialmente en la profesión de programación en la primera mañana de primavera de 1952 y hasta donde he podido rastrear, fui el primer holandés en hacerlo en mi país. En retrospectiva, lo más sorprendente fue la lentitud con la que, al menos en mi parte del mundo, surgió la profesión de programación, una lentitud que ahora es difícil de creer. Pero estoy agradecido por dos vivos recuerdos de ese período que establecen esa lentitud más allá de cualquier duda.
+Después de haber programado durante unos tres años, tuve una conversación con A. van Wijngaarden, que era entonces mi jefe en el Centro de Matemáticas de Amsterdam, una discusión por la cual permaneceré agradecido mientras viva. El punto era que se suponía que debía estudiar física teórica en la Universidad de Leiden simultáneamente, y cuando encontré que las dos actividades eran cada vez más difíciles de combinar, tuve que decidirme, ya sea para detener la programación y convertirme en un verdadero, respetable teoría Físico, o llevar mi estudio de la física a una terminación formal solamente, con un mínimo de esfuerzo, y llegar a ser ....., sí qué? ¿Un programador? ¿Pero era una profesión respetable? Después de todo, ¿qué era la programación? ¿Dónde estaba el sólido cuerpo de conocimiento que podía sostenerlo como una disciplina intelectualmente respetable?
+>> Recuerdo muy vívidamente cómo envidiaba a mis compañeros de hardware, quienes, al preguntarles sobre su competencia profesional, podían al menos señalar que sabían todo sobre tubos de vacío, amplificadores y el resto, mientras que sentía que, ante esa pregunta , Me quedaría con las manos vacías. Lleno de recelos llamé a la puerta de la oficina de van Wijngaarden, preguntándole si podía hablarle un momento; Cuando salí de su oficina un par de horas más tarde, yo era otra persona. Porque después de haber escuchado mis problemas con paciencia, estuvo de acuerdo en que hasta ese momento no había mucha disciplina de programación, pero luego explicó en voz baja que las computadoras automáticas estaban aquí para quedarse, que estábamos al principio y podíamos No soy una de las personas llamadas a hacer de la programación una disciplina respetable en los años venideros?
+>> Este fue un punto de inflexión en mi vida y terminé mi estudio de la física formalmente tan rápido como pude. Una moraleja de la historia anterior es, por supuesto, que debemos ser muy cuidadosos cuando damos consejos a los más jóvenes; A veces lo siguen!
 
-> > I had a running compiler and nobody would touch it ... they carefully told me, computers could only do arithmetic; they could not do programs.
+### Alan Turing - Maquinaria Inteligente (1948)
 
-## Edsger Dijkstra
-
-> > As a result of a long sequence of coincidences I entered the programming profession officially on the first spring morning of 1952 and as far as I have been able to trace, I was the first Dutchman to do so in my country. In retrospect the most amazing thing was the slowness with which, at least in my part of the world, the programming profession emerged, a slowness which is now hard to believe. But I am grateful for two vivid recollections from that period that establish that slowness beyond any doubt.
-> > After having programmed for some three years, I had a discussion with A. van Wijngaarden, who was then my boss at the Mathematical Centre in Amsterdam, a discussion for which I shall remain grateful to him as long as I live. The point was that I was supposed to study theoretical physics at the University of Leiden simultaneously, and as I found the two activities harder and harder to combine, I had to make up my mind, either to stop programming and become a real, respectable theoretical physicist, or to carry my study of physics to a formal completion only, with a minimum of effort, and to become....., yes what? A programmer? But was that a respectable profession? For after all, what was programming? Where was the sound body of knowledge that could support it as an intellectually respectable discipline? I remember quite vividly how I envied my hardware colleagues, who, when asked about their professional competence, could at least point out that they knew everything about vacuum tubes, amplifiers and the rest, whereas I felt that, when faced with that question, I would stand empty-handed. Full of misgivings I knocked on van Wijngaarden's office door, asking him whether I could "speak to him for a moment"; when I left his office a number of hours later, I was another person. For after having listened to my problems patiently, he agreed that up till that moment there was not much of a programming discipline, but then he went on to explain quietly that automatic computers were here to stay, that we were just at the beginning and could not I be one of the persons called to make programming a respectable discipline in the years to come? This was a turning point in my life and I completed my study of physics formally as quickly as I could. One moral of the above story is, of course, that we must be very careful when we give advice to younger people; sometimes they follow it!
-...
-
-## Alan Turing
-
-> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> Un hombre provisto de papel, lápiz y goma, y ​​sometido a estricta disciplina, es en efecto una máquina universal.
+> ...
+> Si estamos tratando de producir una máquina inteligente y seguimos el modelo humano tan de cerca como podamos, debemos comenzar con una máquina con muy poca capacidad para realizar operaciones elaboradas o reaccionar de manera disciplinada a los pedidos (tomando la forma Interferencia). Luego, aplicando la interferencia apropiada, imitando la educación, debemos esperar modificar la máquina hasta que se pueda confiar para producir reacciones definidas a ciertos comandos. Este sería el comienzo de
+> El proceso. No intentaré seguirlo más ahora.
+> ...
+> La nueva forma del problema se puede describir en términos de un juego que llamamos el "juego de la imitación".
