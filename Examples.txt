@@ -1,5 +1,6 @@
 ### Grace Hopper - Nanoseconds
 
+<<<<<<< HEAD
 >> Empezaron a hablar de circuitos que actuaban en nanosegundos, billonésimas de segundo. Oh, yo no sabía lo que era un billón, no creo que la mayoría de esos hombres en el centro saben lo que es un billón, y, ah, si no sabes lo que es un billón, ¿cómo sabes ¿Qué es una mil millonésima?
 >>
 >> Me preocupé y herví. Finalmente, una mañana, en total desesperación, llamé al edificio de ingeniería y le dije: "Por favor, corta un nanosegundo y envíalo a mí", y hoy te traje algunos.
